@@ -1,2 +1,2 @@
 # codeigniter-cart-checkout
-CodeIgniter Cart and Checkout Code
+This is a CodeIgniter Cart and Checkout Code
